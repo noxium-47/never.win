@@ -1,7 +1,3 @@
--- language: Lua, target: Roblox (executor), file: neverwin.lua
--- never.win — UI library in noname.hack style
--- Drawing API. Requires executor with Drawing support.
-
 local uis = game:GetService("UserInputService")
 local rs  = game:GetService("RunService")
 
