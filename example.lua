@@ -1,4 +1,4 @@
-local never, util = loadstring(game:HttpGet("https://your.host/neverwin.lua"))()
+local never, util = loadstring(game:HttpGet("https://raw.githubusercontent.com/noxium-47/never.win/refs/heads/main/lib.luau"))()
 
 local win = never:New({
     name = "never.win | full demo",
